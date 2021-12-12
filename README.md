@@ -54,7 +54,7 @@ Here, I examined the effect of quantization for Direct and Casecade methods
 The audio file of this output is saved as "FinalAudio.wav" which has the sufficient quality
 
 
-#### You can access to the report and the plot using "REPORT.pdf"
+#### You can access to the report and the plots using "REPORT.pdf"
 
 
 
